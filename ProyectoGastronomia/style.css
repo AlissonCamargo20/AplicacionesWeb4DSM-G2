@@ -53,6 +53,9 @@ a {
 
 
 
+
+
+
 .platillo {
     display: flex;
     align-items: center;
@@ -70,6 +73,33 @@ a {
 }
 
 .platillo h2 {
+    font-family: Georgia, serif;
+    font-size: 30px;
+    color: #70452f;
+}
+
+
+
+
+
+
+.cultura {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    gap: 30px;
+}
+
+.cultura img {
+    width: 300px;
+    height: 200px;
+}
+
+.cultura div {
+    width: 50%;
+}
+
+.cultura h2 {
     font-family: Georgia, serif;
     font-size: 30px;
     color: #70452f;
