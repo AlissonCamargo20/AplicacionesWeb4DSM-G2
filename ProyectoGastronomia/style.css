@@ -104,3 +104,21 @@ a {
     font-size: 30px;
     color: #70452f;
 }
+
+
+
+
+
+
+nav {
+    text-align: center;
+    padding: 20px;
+    background-color: #ead5bf;
+}
+
+nav a {
+    color: #70452f;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 20px;
+}
