@@ -50,3 +50,27 @@ a {
     color: #9a5738;
     font-size: 18px;
 }
+
+
+
+.platillo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    gap: 30px;
+}
+
+.platillo img {
+    width: 300px;
+    height: 200px;
+}
+
+.platillo div {
+    width: 50%;
+}
+
+.platillo h2 {
+    font-family: Georgia, serif;
+    font-size: 30px;
+    color: #70452f;
+}
